@@ -1,0 +1,11 @@
+chapter5/mbox/CountSentRepliesMapReduce$AMapper.class
+chapter5/mbox/CountReceivedRepliesMapReduce.class
+chapter5/mbox/JoinSentReceivedReplies.class
+chapter5/mbox/MBoxFileInputFormat.class
+chapter5/mbox/JoinSentReceivedReplies$AReducer.class
+chapter5/mbox/MBoxFileReader.class
+chapter5/mbox/CountReceivedRepliesMapReduce$AMapper.class
+chapter5/mbox/CountSentRepliesMapReduce$AReducer.class
+chapter5/mbox/JoinSentReceivedReplies$AMapper.class
+chapter5/mbox/CountReceivedRepliesMapReduce$AReducer.class
+chapter5/mbox/CountSentRepliesMapReduce.class
